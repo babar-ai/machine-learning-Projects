@@ -18,3 +18,5 @@ Each project is organized in its own folder, and you can explore the code, model
 - Jupyter Notebooks (for experimentation and documentation)
 
 Feel free to explore, fork, or contribute to these projects. For any questions, open an issue or reach out!
+
+Email: baberraheem055@gmail.com

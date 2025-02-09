@@ -8,6 +8,7 @@ from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 import joblib
 
 # Step 1: Download dataset
+#heeloo
 path = kagglehub.dataset_download("kukuroo3/body-performance-data")
 print(f"Dataset downloaded to: {path}")
 

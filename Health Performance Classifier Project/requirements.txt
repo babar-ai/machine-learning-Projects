@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+pandas
+opendatasets
+scipy
+kagglehub
+fastapi 
+uvicorn 
+pydantic 
